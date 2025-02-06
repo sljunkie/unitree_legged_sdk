@@ -1,6 +1,8 @@
-# v3.5.1
+# v3.5.11
 The unitree_legged_sdk is mainly used for communication between PC and Controller board.
 It also can be used in other PCs with UDP.
+
+This branch contains minor fixes made to be ready-to-compile with [unitree_ros2_to_real](https://github.com/unitreerobotics/unitree_ros2_to_real)
 
 ### Notice
 support robot: Go1
